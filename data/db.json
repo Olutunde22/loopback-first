@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Product": 3
+  },
+  "models": {
+    "Product": {
+      "1": "{\"id\":1,\"title\":\"IPhonex\",\"qty\":1,\"price\":5000}",
+      "2": "{\"id\":2,\"title\":\"Second\",\"qty\":2,\"price\":4000}"
+    }
+  }
+}
